@@ -1,7 +1,7 @@
 ### Hi there 👋
-🌱 I’m Tiffany Wang <br>
-🔭 I’m a junior majored in computer science with business application at University of California, Riverside
-📫 My ins is yiyi_quq
+✨ I’m Tiffany Wang <br>
+🔭 I’m a junior majored in computer science with business application at University of California, Riverside <br>
+📫 My ins is yiyi_quq <br>
 
 
 <!--
