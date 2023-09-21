@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m Tiffany Wang
+- 🔭 I’m a junior majored in computer science with business application at University of California, Riverside
+- 📫 My ins is yiyi_quq
+
 
 <!--
 **twang0323/twang0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
