@@ -1,4 +1,4 @@
-# Hi! I’m Tiffany, your friendly neighborhood developer 👩‍💻✨  
+# Hi! I’m Tiffany, your friendly neighborhood developer 👩‍💻 
 
 ## 🌟 About Me
 - 🎓 I am completing my **B.S. in Computer Science at UC Riverside**.    
